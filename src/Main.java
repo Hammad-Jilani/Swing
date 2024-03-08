@@ -3,6 +3,7 @@ import java.awt.*;
 
 public class Main {
     public static void main(String[] args) {
+//        Object produced
         JFrame frame = new JFrame();
         frame.setTitle("Tutorial of java swing");
         frame.setResizable(false);
